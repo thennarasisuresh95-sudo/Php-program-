@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image and Hyperlink</title>
+</head>
+<body>
+
+    <h2>Image</h2>
+
+    <img src="image.jpg" width="300" height="200" alt="Sample Image">
+
+    <h2>Hyperlink</h2>
+
+    <a href="https://www.google.com" target="_blank">
+        Visit Google
+    </a>
+
+</body>
+</html>
